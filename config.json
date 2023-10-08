@@ -16,17 +16,17 @@
             "eventcheck": "true"
         },
         "animals": {
-            "enable": "false",
-            "type": "sacrifice",
+            "enable": "true",
+            "type": "sell",
             "animaltype": {
                 "common": "true",
                 "uncommon": "true",
                 "rare": "true",
                 "epic": "true",
-                "mythical": "false",
-                "patreon": "false",
+                "mythical": "true",
+                "patreon": "true",
                 "cpatreon": "false",
-                "legendary": "false",
+                "legendary": "true",
                 "gem": "false",
                 "bot": "false",
                 "distorted": "false",
@@ -41,12 +41,12 @@
         },
         "gamble": {
             "coinflip": {
-                "enable": "false",
-                "amount": "1"
+                "enable": "true",
+                "amount": "1000"
             },
             "slots": {
-                "enable": "false",
-                "amount": "1"
+                "enable": "true",
+                "amount": "1000"
             }
         }
     },

@@ -3,10 +3,10 @@
         "huntandbattle": "true",
         "banbypass": "true",
         "discordrpc": "true",
-        "pray": "false",
+        "pray": "true",
         "curse": "false",
         "autoquest": "true",
-        "extratoken": "false",
+        "extratoken": "true",
         "inventory": {
             "inventorycheck": "true",
             "gemcheck": "true",
@@ -27,12 +27,12 @@
                 "patreon": "true",
                 "cpatreon": "false",
                 "legendary": "true",
-                "gem": "false",
-                "bot": "false",
-                "distorted": "false",
-                "fabled": "false",
-                "special": "false",
-                "hidden": "false"
+                "gem": "true",
+                "bot": "true",
+                "distorted": "true",
+                "fabled": "true",
+                "special": "true",
+                "hidden": "true"
             }
         },
         "upgradeautohunt": {
@@ -42,26 +42,26 @@
         "gamble": {
             "coinflip": {
                 "enable": "true",
-                "amount": "1000"
+                "amount": "1"
             },
             "slots": {
                 "enable": "true",
-                "amount": "1000"
+                "amount": "1"
             }
         }
     },
     "main": {
-        "token": "",
-        "userid": "1116905660731379763",
+        "token": "Your Token",
+        "userid": "Your userID",
         "channelid": "1159834027595935826",
-        "owodmchannelid": "1117021536080121906",
+        "owodmchannelid": "OwO DM channel ID if You don't add so Your account ban from owo",
         "autoquestchannelid": "1159834027595935826"
     },
     "extra": {
-        "token": "",
-        "userid": "1116905660731379763",
+        "token": "Your Token",
+        "userid": "Your userID",
         "channelid": "1159834027595935826",
-        "owodmchannelid": "1117021536080121906",
+        "owodmchannelid": "OwO DM channel ID if You don't add so Your account ban from owo",
         "autoquestchannelid": "1159834027595935826"
     }
         }

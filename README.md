@@ -1,35 +1,15 @@
-6 28 15 26 15<br>
-Tutorial needed? <a href="https://youtu.be/sso05qx8Hac">Click Here</a><br>
-Tutorial 2 (replit) <a href="https://www.youtube.com/watch?v=tiSd99NEhb4">Click Here</a> (Thanks Hiếu LoneLy)
-
-<h1 align="center">OwO Farm Bot V1.0.3 </h1>
-<h2 align="center">Goal: <a href="https://github.com/Mid0aria/owofarmbot/stargazers"><img src="https://img.shields.io/github/stars/Mid0aria/owofarmbot" /></a> / 100</h2>
-
-<p align="center">
-⭐⭐⭐ You can also give this repository a star to show more people and they can use this repository<br>
-<a href="https://github.com/Mid0aria/owofarmbot"><img src="https://hits.sh/github.com/Mid0aria/owofarmbot.svg?view=today-total&label=Repo%20Today/Total%20Views&color=770ca1&labelColor=007ec6"/></a>
-<a href="https://github.com/Mid0aria/owofarmbot"><img src="https://img.shields.io/github/last-commit/mid0aria/owofarmbot" /></a>
-
-Do you want new feature? <a href ="https://github.com/Mid0aria/owofarmbot/issues/24">Click Me</a>
-
-</p>
 
 [❗・Important](#important)<br>
 [👑・Features](#features)<br>
 [⚙・Config.json example](#configjson-example)<br>
 [💎・Get Token](#get-token)<br>
 [📍・OwO DM channel id](#owo-dm-channel-id)<br>
-[📚・Discord RPC](#discord-rpc)<br>
 [⚠️・Captcha Alert](#captcha-alert)<br>
 [📡・Socket Client](#socket-client)<br>
-[🔗・Required Links](#required-links)<br>
 [🎈・Usage](#usage)<br>
-[🥰・Thanks for contribution](#thanks-for-contribution)<br>
-
 
 ## ❗・Important
 
--   Discord may restart as a result of discord rpc overload.
 -   It can detect virus due to captcha(ban) bypasser please turn off your antivirus.
 
 ## 👑・Features
@@ -150,10 +130,6 @@ m)
 
 ![](https://raw.githubusercontent.com/Mid0aria/owofarmbot/main/images/owochannelid.jpg)
 
-## 📚・Discord RPC
-
-![](https://raw.githubusercontent.com/Mid0aria/owofarmbot/main/images/rpc.jpg)
-
 ## ⚠️・Captcha Alert
 !!! If you want the captcha alert to work properly, turn off do not disturb
 
@@ -165,17 +141,8 @@ m)
 
 ![](https://raw.githubusercontent.com/Mid0aria/owofarmbot/main/images/socketclient.png)
 
-## 🔗・Required Links
-
-[NodeJS](https://nodejs.org/en/)<br>
-[Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)<br>
-[Farm Bot Zip File](https://github.com/Mid0aria/owofarmbot/archive/refs/heads/main.zip)
-
 ## 🎈・Usage
-
 ```
-> YOU NEED LATEST NODEJS !
-> download zip file or run git clone https://github.com/Mid0aria/owofarmbot.git
 > edit config.json
 ```
 
@@ -185,9 +152,4 @@ m)
 
 ```bash
 > type node bot.js
-```
-
-## 🥰・Thanks for contribution
-VihaanReddyM <a href="https://github.com/VihaanReddyM">(Github)</a><br>
-Hiếu LoneLy <a href="https://www.youtube.com/watch?v=tiSd99NEhb4">(Youtube)</a>
-
+``

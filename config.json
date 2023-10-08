@@ -52,16 +52,17 @@
     },
     "main": {
         "token": "",
-        "userid": "",
-        "channelid": "",
+        "userid": "1116905660731379763",
+        "channelid": "1159834027595935826",
         "owodmchannelid": "",
-        "autoquestchannelid": ""
+        "autoquestchannelid": "1159834027595935826"
     },
     "extra": {
         "token": "",
-        "userid": "",
-        "channelid": "",
+        "userid": "1116905660731379763",
+        "channelid": "1159834027595935826",
         "owodmchannelid": "",
-        "autoquestchannelid": ""
+        "autoquestchannelid": "1159834027595935826"
     }
-}
+        }
+
